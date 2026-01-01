@@ -1,10 +1,6 @@
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJwamZ3Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKVUn7iM8FMEU24/giphy.gif" width="35"> System Initialized: Welcome to the Neural Network
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJwamZ3Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKVUn7iM8FMEU24/giphy.gif" width="35"> ⚡ Status Report
 
-<p align="center">
-  <img src="banner.jpg" width="100%" alt="Cyber Banner" />
-</p>
-
-## ⚡ Status Report
+## 
 I'm **Abas**, a Fullstack Developer specializing in high-performance architectures and AI-driven security. I build scalable systems that live at the intersection of efficiency and design.
 
 - 🔭 **Current Directive:** Refining the **GYMIFY** backend architecture.
