@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJwamZ3Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKVUn7iM8FMEU24/giphy.gif" width="35"> ⚡ Status Report
 
 ## 
-I'm **Abas**, a Fullstack Developer specializing in high-performance architectures and AI-driven security. I build scalable systems that live at the intersection of efficiency and design.
+I'm **Abbaas**, a Fullstack Developer specializing in high-performance architectures and AI-driven security. I build scalable systems that live at the intersection of efficiency and design.
 
 - 🔭 **Current Directive:** Refining the **GYMIFY** backend architecture.
 - 🧪 **Researching:** Advanced facial recognition models with Python.
