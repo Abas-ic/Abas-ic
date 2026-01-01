@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJwamZ3Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKVUn7iM8FMEU24/giphy.gif" width="35"> System Initialized: Welcome to my Neural Network
 
 <p align="center">
-  <img src="https://www.freepik.com/free-vector/abstract-digital-science-fiction-matrix-like-background_26600961.htm#fromView=keyword&page=17&position=17&uuid=4727ab2e-f021-4c3b-a1f8-25cb702a3e56&query=Technology+blue+banner" width="200" alt="Cyber Logo" />
+  <img src="banner.jpg" width="100%" alt="Cyber Banner" />
 </p>
 
 ## ⚡ About Me:
