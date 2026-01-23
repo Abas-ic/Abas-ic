@@ -3,7 +3,7 @@
 ## 
 I'm **Abbaas**, a Fullstack Developer specializing in high-performance architectures and AI-driven security. I build scalable systems that live at the intersection of efficiency and design.
 
-- 🔭 **Current Directive:** Refining the **GYMIFY** backend architecture.
+- 🔭 **Current Directive:** Refining the **GYMIZONE** backend architecture.
 - 🧪 **Researching:** Advanced facial recognition models with Python.
 - 🐧 **Environment:** Linux Power User & Performance Optimizer.
 
